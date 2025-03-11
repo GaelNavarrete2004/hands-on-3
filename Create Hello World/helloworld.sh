@@ -10,6 +10,8 @@ mkdir Test
 # cambia al directorio creado
 cd Test
 
-# muestra el contenido del directorio q recien creamos
-echo "Contenido del directorio Test (debería estar vacío):"
+# muestra el contenido del directorio que recien creamos
+echo "Contenido del directorio Test (no tiene que tener nada dentro):"
 ls
+
+echo "ya fue todo"

@@ -21,4 +21,4 @@ rm backup/mytext.txt
 #y tambien eliminamos el directorio
 rmdir backup
 
-echo "El script ha finalizado correctamente."
+echo "ya fue todo"
